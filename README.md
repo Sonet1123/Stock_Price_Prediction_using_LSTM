@@ -34,9 +34,6 @@ We used a Keras-based Sequential LSTM model with the following architecture:
 ## The Jupiter notebook file containing our work is named "main.ipynb".
 
 ## 📊 Results
-
-We tested the model using two different time steps: 14 and 60. 
-Although the predicted values weren't always precise, the model was generally successful in capturing price movement direction, especially for AMD. Tesla was more challenging due to its higher volatility.
 Full results and visualizations are available in the project presentation slide"Report".
 
 ---
